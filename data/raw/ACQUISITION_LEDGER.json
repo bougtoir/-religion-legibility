@@ -1,0 +1,38 @@
+{
+  "ledger_note": "Acquisition ledger for external datasets used in 'When Religion Becomes Countable' (Paper 2, JSSR). All timestamps UTC. Raw snapshots are immutable; analysis works on processed copies.",
+  "acquisitions": [
+    {
+      "dataset": "Database of Religious History (DRH) — Standard Cross-Cultural Sample of Religion (SCCSR) v3",
+      "source_url": "https://zenodo.org/records/18394095",
+      "identifier": "DOI 10.5281/zenodo.18394095; SCCSR v3 frozen 2026-01-20, published 2026-01-27",
+      "license": "CC-BY-4.0",
+      "downloaded_file": "drh/drh_tables.zip",
+      "sha256": "fff29d5195d32dfdaf5476757bcf5f28dab87438b38d960a7d3a2cbd4b5c637b",
+      "retrieved_utc": "2026-10-03T08:38Z",
+      "local_copy": "drh/drh_tables/ (7 CSVs: answerset.csv, entry_data.csv, entity_tags.csv, questionrelation.csv, region_data.csv, literacy_recode.csv, social_complexity_recode.csv)",
+      "terms_note": "Openly licensed aggregate-level expert answers; redistribution permitted under CC-BY-4.0 with attribution."
+    },
+    {
+      "dataset": "Seshat Global History Databank — Equinox 2020 snapshot (canonical data)",
+      "source_url": "https://doi.org/10.5281/zenodo.6642229 (GitHub mirror: https://github.com/seshatdb/Equinox_Data)",
+      "identifier": "Equinox Data v.1, released 2022-06-14",
+      "license": "CC BY-NC-SA",
+      "downloaded_file": "seshat/equinox/Equinox_Data.zip",
+      "sha256": "bf38dd49dcec9881e4f1ba9651e11bd60fd4400450b301e5b579553386729e14",
+      "retrieved_utc": "2026-10-03T08:38Z",
+      "local_copy": "seshat/equinox/seshatdb-Equinox_Data-ed8f570/Equinox_on_GitHub_June9_2022.xlsx",
+      "terms_note": "Non-commercial license: do not mirror raw data into public repos; publish aggregate statistics only."
+    },
+    {
+      "dataset": "Seshat Global History Databank — Polaris 2026 snapshot",
+      "source_url": "https://github.com/Seshat-Global-History-Databank/build_polaris_dataset",
+      "identifier": "Polaris2026.xlsx committed in build_polaris_dataset repo (built from Seshat API)",
+      "license": "Seshat data terms (CC BY-NC-SA lineage)",
+      "downloaded_file": "polaris/build_polaris_dataset/Polaris2026.xlsx (repo clone, depth 1)",
+      "sha256": "see data/raw/polaris/build_polaris_dataset",
+      "retrieved_utc": "2026-10-03T08:40Z",
+      "local_copy": "polaris/build_polaris_dataset/",
+      "terms_note": "Same non-commercial restriction as Equinox; aggregate statistics only in public outputs."
+    }
+  ]
+}
