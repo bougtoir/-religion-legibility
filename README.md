@@ -50,7 +50,7 @@ python analysis/make_tables.py
 
 The first three analysis steps require the external raw files above.
 `canonical_results.py` depends only on processed outputs and coding files.
-The repository ships processed aggregate outputs so the canonical registry, figures, and tables can also be regenerated without redistributing restricted raw datasets.
+Processed outputs are not required to be stored publicly. After the three raw-data analysis steps run, canonical_results.py regenerates the canonical registry and the remaining scripts regenerate figures and tables.
 
 ## Canonical numerical registry
 
