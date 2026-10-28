@@ -1,0 +1,163 @@
+dataset,unit,domain,availability,evidence
+"Census (confessional model, E&W 2021)",person,affiliation_membership,direct,Single forced-choice 'What is your religion' + No religion + write-in
+"Census (confessional model, E&W 2021)",person,exclusivity_multiple,absent,One category per person; multiple belonging structurally excluded
+"Census (confessional model, E&W 2021)",person,doctrine,absent,No doctrinal items
+"Census (confessional model, E&W 2021)",person,scripture_canon,absent,
+"Census (confessional model, E&W 2021)",person,clergy_hierarchy,absent,
+"Census (confessional model, E&W 2021)",person,centralized_institution,absent,
+"Census (confessional model, E&W 2021)",person,territorial_polity,NA,Sampling geography only; not measurement of religious territorial embeddedness
+"Census (confessional model, E&W 2021)",person,public_ritual,absent,
+"Census (confessional model, E&W 2021)",person,household_ritual,absent,
+"Census (confessional model, E&W 2021)",person,ancestor_practice,absent,
+"Census (confessional model, E&W 2021)",person,sacred_place,absent,
+"Census (confessional model, E&W 2021)",person,seasonal_local,absent,
+"Census (confessional model, E&W 2021)",person,diffuse_agents,absent,
+"Census (confessional model, E&W 2021)",person,practice_without_identity,absent,No practice items to cross with identity
+"Census (confessional model, E&W 2021)",person,normative_obligation,absent,
+"Census (confessional model, E&W 2021)",person,authority_source,absent,
+"Census (confessional model, E&W 2021)",person,intergenerational,absent,No parental/upbringing items
+"Census (confessional model, E&W 2021)",person,uncertainty_missingness,indirect,Nonresponse and write-in 'other' tabulated; no designed unknown state
+WVS Wave 7 (2017-2022) religion block,person,affiliation_membership,direct,Religious denomination item + 'religious person' self-rating
+WVS Wave 7 (2017-2022) religion block,person,exclusivity_multiple,absent,Single denomination field
+WVS Wave 7 (2017-2022) religion block,person,doctrine,indirect,"Belief items (God, soul, afterlife, hell, heaven) but not doctrinal structure"
+WVS Wave 7 (2017-2022) religion block,person,scripture_canon,absent,
+WVS Wave 7 (2017-2022) religion block,person,clergy_hierarchy,indirect,Confidence in churches/religious leaders only
+WVS Wave 7 (2017-2022) religion block,person,centralized_institution,indirect,Confidence in religious organizations; org membership item
+WVS Wave 7 (2017-2022) religion block,person,territorial_polity,NA,Sampling geography only; not measurement of religious territorial embeddedness
+WVS Wave 7 (2017-2022) religion block,person,public_ritual,direct,Attendance frequency items
+WVS Wave 7 (2017-2022) religion block,person,household_ritual,indirect,Private prayer/meditation items
+WVS Wave 7 (2017-2022) religion block,person,ancestor_practice,absent,None in W7
+WVS Wave 7 (2017-2022) religion block,person,sacred_place,absent,
+WVS Wave 7 (2017-2022) religion block,person,seasonal_local,absent,
+WVS Wave 7 (2017-2022) religion block,person,diffuse_agents,indirect,Spirit/supernatural belief items partial
+WVS Wave 7 (2017-2022) religion block,person,practice_without_identity,indirect,Practice items answered by 'nones' permit discordance cross-tabs
+WVS Wave 7 (2017-2022) religion block,person,normative_obligation,indirect,Generic morality items; not framed as binding religious obligation
+WVS Wave 7 (2017-2022) religion block,person,authority_source,indirect,Confidence items only
+WVS Wave 7 (2017-2022) religion block,person,intergenerational,indirect,Some waves carry parental religion/upbringing
+WVS Wave 7 (2017-2022) religion block,person,uncertainty_missingness,direct,Item-level 'don't know' responses retained and published
+ISSP Religion IV module (2018),person,affiliation_membership,direct,Denomination + religiosity self-placement
+ISSP Religion IV module (2018),person,exclusivity_multiple,absent,Single denomination
+ISSP Religion IV module (2018),person,doctrine,indirect,"Belief batteries (God concepts, afterlife, miracles)"
+ISSP Religion IV module (2018),person,scripture_canon,absent,
+ISSP Religion IV module (2018),person,clergy_hierarchy,indirect,Confidence in churches/religious leaders
+ISSP Religion IV module (2018),person,centralized_institution,indirect,Church power/trust items
+ISSP Religion IV module (2018),person,territorial_polity,NA,Sampling geography only; not measurement of religious territorial embeddedness
+ISSP Religion IV module (2018),person,public_ritual,direct,Attendance items
+ISSP Religion IV module (2018),person,household_ritual,indirect,Private prayer items
+ISSP Religion IV module (2018),person,ancestor_practice,absent,
+ISSP Religion IV module (2018),person,sacred_place,absent,
+ISSP Religion IV module (2018),person,seasonal_local,absent,
+ISSP Religion IV module (2018),person,diffuse_agents,indirect,Spiritual/supernatural belief items
+ISSP Religion IV module (2018),person,practice_without_identity,indirect,Practice items independent of affiliation
+ISSP Religion IV module (2018),person,normative_obligation,indirect,"Morality/religious-truth items, not obligation framing"
+ISSP Religion IV module (2018),person,authority_source,indirect,Religious-truth/confidence items
+ISSP Religion IV module (2018),person,intergenerational,direct,"Parents' religion, childhood attendance, spouse's religion"
+ISSP Religion IV module (2018),person,uncertainty_missingness,direct,DK/refusal categories retained
+Pew Religious Landscape Study 2023-24,person,affiliation_membership,direct,Affiliation + identity probes
+Pew Religious Landscape Study 2023-24,person,exclusivity_multiple,indirect,Some surveys probe dual/multiple identity
+Pew Religious Landscape Study 2023-24,person,doctrine,indirect,Belief batteries
+Pew Religious Landscape Study 2023-24,person,scripture_canon,indirect,Scripture-reading/knowledge items in some studies
+Pew Religious Landscape Study 2023-24,person,clergy_hierarchy,indirect,Confidence/leadership items
+Pew Religious Landscape Study 2023-24,person,centralized_institution,indirect,Institutional trust items
+Pew Religious Landscape Study 2023-24,person,territorial_polity,NA,Sampling geography only; not measurement of religious territorial embeddedness
+Pew Religious Landscape Study 2023-24,person,public_ritual,direct,Attendance items
+Pew Religious Landscape Study 2023-24,person,household_ritual,indirect,Prayer and home-practice items in some studies
+Pew Religious Landscape Study 2023-24,person,ancestor_practice,absent,Rare
+Pew Religious Landscape Study 2023-24,person,sacred_place,absent,
+Pew Religious Landscape Study 2023-24,person,seasonal_local,indirect,Holiday practice items in some studies
+Pew Religious Landscape Study 2023-24,person,diffuse_agents,indirect,Spiritual-energy/fate items in some studies
+Pew Religious Landscape Study 2023-24,person,practice_without_identity,direct,Published 'nones' practice/belief cross-tabs
+Pew Religious Landscape Study 2023-24,person,normative_obligation,indirect,Morality-source items
+Pew Religious Landscape Study 2023-24,person,authority_source,indirect,Religion-as-authority items
+Pew Religious Landscape Study 2023-24,person,intergenerational,direct,Childhood religion; switching matrices published
+Pew Religious Landscape Study 2023-24,person,uncertainty_missingness,direct,DK responses published
+Seshat Polaris 2026 (Equinox 2020 checked),polity,affiliation_membership,NA,"Unit is polity, not person; no individual affiliation [unit-incompatible: polity-level instrument]"
+Seshat Polaris 2026 (Equinox 2020 checked),polity,exclusivity_multiple,NA,religious_fragmentation and sync_rel_pra_ind_beli variables [unit-incompatible: polity-level instrument]
+Seshat Polaris 2026 (Equinox 2020 checked),polity,doctrine,indirect,Moralizing-ideology variables; not doctrine text
+Seshat Polaris 2026 (Equinox 2020 checked),polity,scripture_canon,indirect,Textual-trace information variables in complexity section
+Seshat Polaris 2026 (Equinox 2020 checked),polity,clergy_hierarchy,direct,Religious hierarchy levels; professional priests
+Seshat Polaris 2026 (Equinox 2020 checked),polity,centralized_institution,indirect,Institutional/religious-level variables
+Seshat Polaris 2026 (Equinox 2020 checked),polity,territorial_polity,direct,Polity-anchored by design
+Seshat Polaris 2026 (Equinox 2020 checked),polity,public_ritual,indirect,Human sacrifice; ritual variables
+Seshat Polaris 2026 (Equinox 2020 checked),polity,household_ritual,absent,
+Seshat Polaris 2026 (Equinox 2020 checked),polity,ancestor_practice,absent,
+Seshat Polaris 2026 (Equinox 2020 checked),polity,sacred_place,absent,
+Seshat Polaris 2026 (Equinox 2020 checked),polity,seasonal_local,absent,
+Seshat Polaris 2026 (Equinox 2020 checked),polity,diffuse_agents,indirect,Supernatural enforcement variables
+Seshat Polaris 2026 (Equinox 2020 checked),polity,practice_without_identity,NA,Not person-level [unit-incompatible: polity-level instrument]
+Seshat Polaris 2026 (Equinox 2020 checked),polity,normative_obligation,indirect,Moralizing-enforcement variables (supernatural enforcement of norms)
+Seshat Polaris 2026 (Equinox 2020 checked),polity,authority_source,indirect,Deification/legitimation of rulers variables
+Seshat Polaris 2026 (Equinox 2020 checked),polity,intergenerational,absent,
+Seshat Polaris 2026 (Equinox 2020 checked),polity,uncertainty_missingness,direct,Explicit unknown/uncoded values; is_uncertain flag
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,affiliation_membership,indirect,Group identity described but not exclusive census membership
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,exclusivity_multiple,direct,Syncretism and overlapping-adherence questions
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,doctrine,direct,Norms/belief/boundary questions across polls
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,scripture_canon,direct,Dedicated Religious Text poll
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,clergy_hierarchy,direct,Leadership/specialist questions
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,centralized_institution,direct,Institutional-support and orthodoxy questions
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,territorial_polity,direct,Region- and polity-anchored entries
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,public_ritual,direct,Dedicated Religious Ritual poll; festival items
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,household_ritual,indirect,Domestic practice partially covered
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,ancestor_practice,direct,Ancestor/dead-kin questions across polls
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,sacred_place,direct,Dedicated Religious Place poll
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,seasonal_local,direct,Calendar/festival/seasonal items
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,diffuse_agents,direct,Spirit/nonhuman-agent questions across polls
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,practice_without_identity,indirect,Practice recorded at group level; persons not sampled
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,normative_obligation,direct,Taboo/norm/boundary questions
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,authority_source,direct,Authority/legitimation questions
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,intergenerational,indirect,Transmission items partial
+DRH SCCSR v3 (Zenodo 2026-01-20),religious_group,uncertainty_missingness,direct,'Field doesn't know'/'I don't know' designed-in
+Pulotu v1.3.1 (D-PLACE release),society,affiliation_membership,NA,Cultural group-level religious identity [unit-incompatible: society-level instrument]
+Pulotu v1.3.1 (D-PLACE release),society,exclusivity_multiple,NA,Syncretism variables (official/unofficial) [unit-incompatible: society-level instrument]
+Pulotu v1.3.1 (D-PLACE release),society,doctrine,indirect,Belief variables
+Pulotu v1.3.1 (D-PLACE release),society,scripture_canon,absent,
+Pulotu v1.3.1 (D-PLACE release),society,clergy_hierarchy,indirect,Specialist/priest variables
+Pulotu v1.3.1 (D-PLACE release),society,centralized_institution,indirect,Religious History top-down adoption
+Pulotu v1.3.1 (D-PLACE release),society,territorial_polity,direct,Culture-area anchored
+Pulotu v1.3.1 (D-PLACE release),society,public_ritual,direct,"Costly sacrifices/offerings, headhunting, ritual variables"
+Pulotu v1.3.1 (D-PLACE release),society,household_ritual,indirect,Partial
+Pulotu v1.3.1 (D-PLACE release),society,ancestor_practice,direct,Belief in ancestor spirits
+Pulotu v1.3.1 (D-PLACE release),society,sacred_place,indirect,Place-linked ritual partially
+Pulotu v1.3.1 (D-PLACE release),society,seasonal_local,absent,
+Pulotu v1.3.1 (D-PLACE release),society,diffuse_agents,direct,"Nature gods, ancestor spirits, supernatural punishment"
+Pulotu v1.3.1 (D-PLACE release),society,practice_without_identity,NA,Group-level only [unit-incompatible: society-level instrument]
+Pulotu v1.3.1 (D-PLACE release),society,normative_obligation,indirect,Supernatural punishment/moralizing items
+Pulotu v1.3.1 (D-PLACE release),society,authority_source,indirect,Deification/authority items
+Pulotu v1.3.1 (D-PLACE release),society,intergenerational,absent,
+Pulotu v1.3.1 (D-PLACE release),society,uncertainty_missingness,indirect,Missing cells tabulated; no designed DK
+Ethnographic Atlas (D-PLACE EA v2016),society,affiliation_membership,NA,No individual affiliation [unit-incompatible: society-level instrument]
+Ethnographic Atlas (D-PLACE EA v2016),society,exclusivity_multiple,NA,
+Ethnographic Atlas (D-PLACE EA v2016),society,doctrine,absent,
+Ethnographic Atlas (D-PLACE EA v2016),society,scripture_canon,absent,
+Ethnographic Atlas (D-PLACE EA v2016),society,clergy_hierarchy,absent,
+Ethnographic Atlas (D-PLACE EA v2016),society,centralized_institution,absent,
+Ethnographic Atlas (D-PLACE EA v2016),society,territorial_polity,direct,Society-anchored
+Ethnographic Atlas (D-PLACE EA v2016),society,public_ritual,indirect,Trance states; ceremonial-adjacent items
+Ethnographic Atlas (D-PLACE EA v2016),society,household_ritual,absent,
+Ethnographic Atlas (D-PLACE EA v2016),society,ancestor_practice,absent,None in EA
+Ethnographic Atlas (D-PLACE EA v2016),society,sacred_place,absent,
+Ethnographic Atlas (D-PLACE EA v2016),society,seasonal_local,absent,
+Ethnographic Atlas (D-PLACE EA v2016),society,diffuse_agents,indirect,EA034 high gods
+Ethnographic Atlas (D-PLACE EA v2016),society,practice_without_identity,NA,
+Ethnographic Atlas (D-PLACE EA v2016),society,normative_obligation,indirect,Taboo/sex-norm variables
+Ethnographic Atlas (D-PLACE EA v2016),society,authority_source,absent,
+Ethnographic Atlas (D-PLACE EA v2016),society,intergenerational,absent,
+Ethnographic Atlas (D-PLACE EA v2016),society,uncertainty_missingness,indirect,Missing tabulated; no designed DK
+SCCS (D-PLACE SCCS v2015),society,affiliation_membership,NA,No individual affiliation [unit-incompatible: society-level instrument]
+SCCS (D-PLACE SCCS v2015),society,exclusivity_multiple,NA,Christian influence/Islamization degree items [unit-incompatible: society-level instrument]
+SCCS (D-PLACE SCCS v2015),society,doctrine,indirect,"Belief items (reincarnation, high gods)"
+SCCS (D-PLACE SCCS v2015),society,scripture_canon,absent,
+SCCS (D-PLACE SCCS v2015),society,clergy_hierarchy,indirect,Shaman/specialist items
+SCCS (D-PLACE SCCS v2015),society,centralized_institution,absent,
+SCCS (D-PLACE SCCS v2015),society,territorial_polity,direct,Society-anchored
+SCCS (D-PLACE SCCS v2015),society,public_ritual,direct,Rich ceremony/funeral/initiation batteries
+SCCS (D-PLACE SCCS v2015),society,household_ritual,indirect,Some domestic rite items
+SCCS (D-PLACE SCCS v2015),society,ancestor_practice,indirect,Funerary/reincarnation items
+SCCS (D-PLACE SCCS v2015),society,sacred_place,absent,
+SCCS (D-PLACE SCCS v2015),society,seasonal_local,absent,
+SCCS (D-PLACE SCCS v2015),society,diffuse_agents,direct,Magic/shamanism/spirit-intrusion items
+SCCS (D-PLACE SCCS v2015),society,practice_without_identity,NA,Society-level only [unit-incompatible: society-level instrument]
+SCCS (D-PLACE SCCS v2015),society,normative_obligation,indirect,Taboo/norm items
+SCCS (D-PLACE SCCS v2015),society,authority_source,indirect,Shaman authority items
+SCCS (D-PLACE SCCS v2015),society,intergenerational,absent,
+SCCS (D-PLACE SCCS v2015),society,uncertainty_missingness,indirect,Missing tabulated; no designed DK
